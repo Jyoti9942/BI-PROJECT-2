@@ -56,13 +56,13 @@ Medium outlets: $444.69K
 
 High outlets: $507.90K
 
-Sales by Outlet Location
+### 5.Sales by Outlet Location
 
 Tier 3 locations lead with $472.13K in sales.
 
 Tier 2 follows with $393.15K, and Tier 1 records $336.29K.
 
-### 5.Outlet Type Performance
+### 6.Outlet Type Performance
 
 Supermarket Type 2: $131.48K sales, 928 items sold, Avg. Rating 3.93.
 
