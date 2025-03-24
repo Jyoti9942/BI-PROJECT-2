@@ -30,25 +30,25 @@ Item Type: Filter sales based on different product categories.
 
 ## Visualizations and Insights
 
-Outlet Establishment Trends
+### 1.Outlet Establishment Trends
 
 Displays total sales over the years from 2011 to 2022.
 
 Peak sales occurred in 2018 with $204K revenue.
 
-Sales by Fat Content
+### 2.Sales by Fat Content
 
 Categorizes items into Low Fat and Regular Fat.
 
 Regular Fat items contributed $776.32K, while Low Fat items generated $425.25K.
 
-Sales by Item Type
+### 3.Sales by Item Type
 
 Highlights top-performing product categories.
 
 Fruits and Snacks are the best-selling items, each contributing $0.18M.
 
-Sales Distribution by Outlet Size
+### 4.Sales Distribution by Outlet Size
 
 Small outlets: $248.99K
 
@@ -62,7 +62,7 @@ Tier 3 locations lead with $472.13K in sales.
 
 Tier 2 follows with $393.15K, and Tier 1 records $336.29K.
 
-Outlet Type Performance
+### 5.Outlet Type Performance
 
 Supermarket Type 2: $131.48K sales, 928 items sold, Avg. Rating 3.93.
 
